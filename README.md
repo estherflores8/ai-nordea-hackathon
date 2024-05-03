@@ -1,6 +1,4 @@
-# ai-nordea-hackathon
-
-# Nordea FinanceBot: Your AI-Powered Financial Reports Companion
+# Dornea: Your AI-Powered Financial Assistant
 
 Welcome to DeaNor, your intelligent assistant for navigating through financial reports with ease! Built during the Nordea Bank Hackathon, our project leverages cutting-edge AI technologies and Amazon Web Services to deliver a seamless Q&A experience tailored specifically for financial data.
 
@@ -36,6 +34,10 @@ The whole application is runned via AmazonSageMaker.
 
 ## Architecture
 
+The following architecture was followed to develop the app. Cannot express our gratitude to AWS team for the assistance and the collaboration, allowing us to learn how to use AWS tools.
+
+![Architecture](images/architecture.jpg)
+
 ## Usage
 
 Once the application is up and running, open your browser and navigate to the provided URL. You'll be greeted by the sleek and intuitive Streamlit interface of DeaNor. Simply type your financial queries into the chat window, and let FinanceBot handle the rest!
@@ -57,6 +59,7 @@ We are truly interested in improving this application with many new features tha
 ## Data
 
 Data is collected in real time from the webpage: https://mfn.se/all/s. Users can interact with it and ask any required questions about the updated pdfs.
+
 ![Data Webpage](images/mfn.jpg)
 
 ## Visualization example
