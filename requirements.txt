@@ -1,0 +1,7 @@
+faiss-cpu
+langchain
+langchain-community
+fitz
+tiktoken==0.4.0
+pypdf
+langchain-aws
