@@ -36,7 +36,7 @@ The whole application is runned via AmazonSageMaker.
 
 The following architecture was followed to develop the app. Cannot express our gratitude to AWS team for the assistance and the collaboration, allowing us to learn how to use AWS tools.
 
-![Architecture](images/architecture.jpg)
+![Architecture](/images/architecture.png)
 
 ## Usage
 
@@ -60,7 +60,7 @@ We are truly interested in improving this application with many new features tha
 
 Data is collected in real time from the webpage: https://mfn.se/all/s. Users can interact with it and ask any required questions about the updated pdfs.
 
-![Data Webpage](images/mfn.jpg)
+![DataWebpage](/images/mfn.png)
 
 ## Visualization example
 
